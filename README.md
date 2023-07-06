@@ -1,4 +1,4 @@
-# <p align="center">Twitter-Clone</p>
+#<p align="center">Twitter Clone</p>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
@@ -52,9 +52,9 @@ git clone https://github.com/<your-github-username>/Twitter-Clone.git
 
 <h2>Overview⭐</h2>
 
-- ## `First-Login Page`
+- # `First-Login Page`
 ![First](https://user-images.githubusercontent.com/73993775/189761715-cf617330-94b6-46c6-bc7e-40abf3512150.png)
-- ## `Second-Login Page`
+- # `Second-Login Page`
 ![Second](https://user-images.githubusercontent.com/73993775/189761742-ed24a55f-1bf1-4754-8e21-20c6fbd8c50e.png)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
